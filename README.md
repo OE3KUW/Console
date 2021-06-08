@@ -21,7 +21,7 @@ HTL St. Pölten   Elektronik & technische Informatik
   <ol>
     <li>
       <a href="#about the project">About The Project</a>
-    <li><a href="#add to project">add to project</a></li>
+    <li><a href="#add to your project">add to your Project</a></li>
     <li><a href="#Wiki">Wiki</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
