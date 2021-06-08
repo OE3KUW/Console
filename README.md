@@ -5,8 +5,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<a href="https://github.com/codingmiracle/htlstp-el">HTL St. Pölten   Elektronik & technische Informatik</a>
 
-HTL St. Pölten   Elektronik & technische Informatik
 <p align="center">
   <a href="https://github.com/codingmiracle/Console">
     <img src="Graphics/Console.png" alt="Logo" width="1500" height="480">
