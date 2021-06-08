@@ -20,8 +20,8 @@ HTL St. Pölten   Elektronik & technische Informatik
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-    <li><a href="#usage">Usage</a></li>
+      <a href="#about the project">About The Project</a>
+    <li><a href="#add to project">add to project</a></li>
     <li><a href="#Wiki">Wiki</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -47,7 +47,7 @@ OE3KUW: https://github.com/OE3KUW
 
 
 
-## Usage
+## add to project
 
 Copy the console.c and console.h into your project folder. <br />Add console.c in your Code Editor to your project and include the headerfile in your main.c : `#include "console.h"`
 <br />
