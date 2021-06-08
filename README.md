@@ -85,13 +85,13 @@ David Gruber - dav.gruber@htlstp.at
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Codeoutsmarted/Console.svg?style=for-the-badge
-[contributors-url]: https://github.com/Codeoutsmarted/Console/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Codeoutsmarted/Console.svg?style=for-the-badge
-[forks-url]: https://github.com/Codeoutsmarted/Console/network/members
-[stars-shield]: https://img.shields.io/github/stars/Codeoutsmarted/Console.svg?style=for-the-badge
-[stars-url]: https://github.com/Codeoutsmarted/Console/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Codeoutsmarted/Console.svg?style=for-the-badge
-[issues-url]: https://github.com/Codeoutsmarted/Console/issues
-[license-shield]: https://img.shields.io/github/license/Codeoutsmarted/Console.svg?style=for-the-badge
-[license-url]: https://github.com/Codeoutsmarted/Console/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codingmiracle/Console.svg?style=for-the-badge
+[contributors-url]: https://github.com/codingmiracle/Console/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codingmiracle/Console.svg?style=for-the-badge
+[forks-url]: https://github.com/codingmiracle/Console/network/members
+[stars-shield]: https://img.shields.io/github/stars/codingmiracle/Console.svg?style=for-the-badge
+[stars-url]: https://github.com/codingmiracle/Console/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codingmiracle/Console.svg?style=for-the-badge
+[issues-url]: https://github.com/codingmiracle/Console/issues
+[license-shield]: https://img.shields.io/github/license/codingmiracle/Console.svg?style=for-the-badge
+[license-url]: https://github.com/codingmiracle/Console/LICENSE.txt
