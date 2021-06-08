@@ -94,4 +94,4 @@ David Gruber - dav.gruber@htlstp.at
 [issues-shield]: https://img.shields.io/github/issues/Codeoutsmarted/Console.svg?style=for-the-badge
 [issues-url]: https://github.com/Codeoutsmarted/Console/issues
 [license-shield]: https://img.shields.io/github/license/Codeoutsmarted/Console.svg?style=for-the-badge
-[license-url]: https://github.com/Codeoutsmarted/Console/blob/master/LICENSE.txt
+[license-url]: https://github.com/Codeoutsmarted/Console/LICENSE.txt
