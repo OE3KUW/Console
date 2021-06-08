@@ -49,7 +49,7 @@ OE3KUW: https://github.com/OE3KUW
 
 ## Usage
 
-Copy the console.c and console.h into your project folder. <br />Add console.c in your Code Editor to your project and include the headerfile in your main.c : (`#include "console.h"`)
+Copy the console.c and console.h into your project folder. <br />Add console.c in your Code Editor to your project and include the headerfile in your main.c : `#include "console.h"`
 <br />
 If you use Code::Blocks you can do this via Project/Add Files and then choose console.c
 
@@ -61,9 +61,9 @@ If you use Code::Blocks you can do this via Project/Add Files and then choose co
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch `git checkout -b feature/AmazingFeature`
+3. Commit your Changes `git commit -m 'Add some AmazingFeature'`
+4. Push to the Branch `git push origin feature/AmazingFeature`
 5. Open a Pull Request
 
 <!-- LICENSE -->
