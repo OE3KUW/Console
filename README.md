@@ -8,7 +8,7 @@
 
 HTL St. Pölten   Elektronik & technische Informatik
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/codingmiracle/Console">
     <img src="Graphics/Console.png" alt="Logo" width="1500" height="480">
   </a>
 <br />
@@ -42,7 +42,7 @@ This is a support library for C Console applications!
 * get easy keyboard input
 * ideal for console games and 1st Class projects
 
-<h4 style="display: inline-block">Created by:</h4>
+<h4 style="display: inline-block">🙏 Created by:</h4>
 OE3KUW: https://github.com/OE3KUW
 
 
