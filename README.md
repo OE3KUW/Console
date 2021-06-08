@@ -22,6 +22,7 @@ HTL St. Pölten   Elektronik & technische Informatik
     <li>
       <a href="#about-the-project">About The Project</a>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#Wiki">Wiki</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -41,16 +42,18 @@ This is a support library for C Console applications!
 * get easy keyboard input
 * ideal for console games and 1st Class projects
 
-<h4 style="display: inline-block">Contributors:</h4>
+<h4 style="display: inline-block">Created by:</h4>
 OE3KUW: https://github.com/OE3KUW
 
 
 
 ## Usage
 
-Copy the console.c and console.h into your project folder. Add console.c in your editor to your project.
+Copy the console.c and console.h into your project folder. <br />Add console.c in your Code Editor to your project and include the headerfile in your main.c : (`#include "console.h"`)
 <br />
 If you use Code::Blocks you can do this via Project/Add Files and then choose console.c
+
+## Wiki
 
 <!-- CONTRIBUTING -->
 ## Contributing
